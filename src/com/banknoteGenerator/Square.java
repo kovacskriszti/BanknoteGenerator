@@ -1,3 +1,4 @@
+package com.banknoteGenerator;
 import java.awt.*;
 
 /**
